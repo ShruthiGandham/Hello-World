@@ -1,2 +1,3 @@
 # Hello-World
-this is my first GIT
+This is my first GIT
+Idea of GIT
